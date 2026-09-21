@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "cover": "Home",
+    "farmer_submit": "Submit Report",
+    "tracker": "My Reports Tracker",
+    "map": "GIS Outbreak Map",
+    "ai_studio": "AI Diagnosis Studio",
+    "panic_lab": "Panic Lab",
+    "review_queue": "Review Queue",
+    "farmer_directory": "Farmer Directory",
+    "alert_log": "Alert Log",
+    "login": "Login",
+    "more": "More",
+    "ivr_simulator": "Phone IVR Simulator",
+    "helpline_text": "National Toll-Free Pest Advisory"
+  },
+  "hero": {
+    "problem_badge": "Problem Statement: The Pest That Beat the Forecast",
+    "title_1": "Hyperlocal Pest Intelligence",
+    "title_2": "Resilient Against Copycat Panic",
+    "description": "District-level bulletins aggregate data too coarsely and miss village-level outbreaks. FieldWatch combines photo-confirmed crop reports with 5-factor spatial weighting to trigger genuinely hyperlocal alerts while mathematically suppressing panic-driven report floods.",
+    "submit_cta": "Submit Crop Outbreak Report",
+    "map_cta": "Explore GIS Outbreak Map",
+    "panic_cta": "Panic-Dampening Lab",
+    "engine_status": "Live Outbreak Engine Telemetry",
+    "status_active": "REAL-TIME ACTIVE",
+    "radius_label": "Clustering Radius",
+    "alert_rule_label": "Outbreak Alert Rule",
+    "copycat_label": "Copycat Penalty",
+    "channels_label": "Access Channels",
+    "ivr_button": "Test Phone IVR Simulator (EN / हिन्दी / मराठी)"
+  },
+  "tracker": {
+    "title": "My Crop Reports Tracker",
+    "subtitle": "Real-time Verification Status • Cluster Weight & Agronomist Confirmation",
+    "search_placeholder": "Search by Report ID, Field ID, or Crop...",
+    "status_all": "All Statuses",
+    "verified": "Verified Valid",
+    "pending": "Pending Verification",
+    "confirmed": "Agronomist Confirmed",
+    "rejected": "Invalid Image / Rejected",
+    "no_reports": "No reports found matching your search.",
+    "timeline": "Verification Progress"
+  },
+  "farmer_submit": {
+    "title": "Submit Crop Outbreak Report",
+    "subtitle": "Crowdsourced Hyperlocal Intelligence • Smartphone & Basic Phone Compatible",
+    "capture_photo": "1. Take / Upload Crop Photo",
+    "gps_confirmed": "2. Field Location (GPS Auto-Captured)",
+    "select_crop": "3. Select Crop",
+    "select_symptoms": "4. Select Symptoms",
+    "submit_now": "Submit Report Now",
+    "offline_notice": "Offline mode active. Report queued locally and will auto-sync when online."
+  },
+  "gis": {
+    "title": "GIS Hyperlocal Outbreak Intelligence Map",
+    "subtitle": "Spatial Village Boundaries & Micro-Climate Telemetry",
+    "refresh": "Refresh GIS Layers",
+    "solapur_region": "Solapur West Cluster Region",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "leaf_wetness": "Leaf Wetness",
+    "ndvi": "NDVI Score",
+    "select_scenario": "Select Weather Micro-Climate Scenario",
+    "simulate_surge": "Simulate Outbreak Surge & Broadcast Alert",
+    "surge_triggered": "🚨 Outbreak Surge Triggered! Multi-channel alert broadcast delivered across SMS, WhatsApp & IVR calls."
+  },
+  "panic": {
+    "title": "Panic-Dampening Simulator & Weighting Lab",
+    "subtitle": "Demonstrates how FieldWatch handles over-reporting out of anxiety after an alert goes out in a village",
+    "step_1": "Step 1: Outbreak Detected",
+    "step_1_desc": "3 Distinct Field Reports Ingested",
+    "step_2": "Step 2: Simulate Panic Surge",
+    "step_2_desc": "Simulate +10 Copycat Reports",
+    "step_3": "Step 3: Panic Suppression Proof",
+    "reset": "Reset Simulation"
+  },
+  "review": {
+    "title": "Agronomist Verification Queue",
+    "subtitle": "Prioritized by Outbreak Weight • Adjusts Farmer Trust Score",
+    "confirm": "Confirm Report",
+    "reject": "Reject Report",
+    "trust_score": "Trust Score"
+  }
+}

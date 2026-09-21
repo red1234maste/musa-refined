@@ -1,0 +1,17 @@
+{
+  "alert": {
+    "title": "FIELDWATCH OUTBREAK ALERT",
+    "body": "ALERT: Confirmed {{pest_type}} outbreak detected across {{distinct_fields}} fields in your region. Inspect crops immediately and follow protective advisory.",
+    "channels": ["SMS", "WhatsApp", "IVR Call"]
+  },
+  "rejection": {
+    "non_plant": "Image rejected: The submitted photo does not appear to contain a recognized crop or leaf. Please upload a clear photo of the affected plant.",
+    "corrupted": "Image rejected: Corrupted or unsupported file format. Please submit JPEG, PNG, or WebP images."
+  },
+  "ivr": {
+    "welcome": "Welcome to FieldWatch Toll-Free Pest Advisory.",
+    "select_language": "For English press 1. Hindi press 2. Marathi press 3.",
+    "select_symptom": "Select symptom: Press 1 for leaf spots, 2 for wilting, 3 for insect damage, 4 for yellowing.",
+    "thank_you": "Thank you. Your pest report has been ingested and queued for cluster validation."
+  }
+}
